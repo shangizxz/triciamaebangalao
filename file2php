@@ -1,1 +1,4 @@
-
+<?php
+  $name = "user";
+  echo = "Hi, " .$name. ", to file3.php!;
+?>
